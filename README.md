@@ -1,6 +1,7 @@
 # nodejs-express-ejs-经验总结
 
 nodejs+express+ejs 是开发简易后端的全套工具，可动态连接数据库获取或更改内容
+本练习架设在linux平台
 
 部署开发环境后
 ```
